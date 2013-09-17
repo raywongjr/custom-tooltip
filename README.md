@@ -1,4 +1,5 @@
-custom-tooltip
-==============
+# custom-tooltip
+
+custom-tooltip.js.
 
 jQuery Custom Tooltip plugin
